@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="4096"
+	maxImageHeight="4096"
+	imageQuality="10"
+	thumbWidth="150"
+	thumbHeight="150"
+	thumbQuality="100"
+	useFlickr="false"
+	resizeOnImport="false"
+	cropToFit="false"
+	galleryWidth="100%"
+	galleryHeight="100%"
+	backgroundTransparent="true"
+	useFlash="false"
+	galleryStyle="COMPACT"
+	thumbPosition="BOTTOM"
+	thumbColumns="10"
+	frameWidth="2"
+	frameColor="FF6600"
+
+>
+  <image imageURL="images/PC01.a_jamesn - Copy.jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy.jpg"
+	linkURL="images/PC01.a_jamesn - Copy.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PC01.a_jamesn - Copy (2).jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy (2).jpg"
+	linkURL="images/PC01.a_jamesn - Copy (2).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PC01.a_jamesn - Copy (3).jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy (3).jpg"
+	linkURL="images/PC01.a_jamesn - Copy (3).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PC01.a_jamesn - Copy (4).jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy (4).jpg"
+	linkURL="images/PC01.a_jamesn - Copy (4).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PC01.a_jamesn - Copy (5).jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy (5).jpg"
+	linkURL="images/PC01.a_jamesn - Copy (5).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/PC01.a_jamesn - Copy (6).jpg"
+	thumbURL="thumbs/PC01.a_jamesn - Copy (6).jpg"
+	linkURL="images/PC01.a_jamesn - Copy (6).jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
